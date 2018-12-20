@@ -1,0 +1,21 @@
+ul{
+    position: relative;
+}
+header#header .main-nav .main-nav-wrap > ul > li > .nav-sub{
+    display: none;
+}
+header#header .main-nav .main-nav-wrap > ul > li:hover .nav-sub{
+    display: block;
+    
+}
+
+header#header .main-nav .main-nav-wrap > ul > li:hover{
+background:#189eff;
+}
+
+
+
+.user-profile:hover .box{
+    display: block !important;
+    
+}
